@@ -8,12 +8,10 @@ I am not good at playing games.
 
 ### Yes It's me!
 
-```markdown
 Now you are seeing this.
 
-"Knowledge cannot replace friendship. I'd rather be an idiot than lose you."
+### "Knowledge cannot replace friendship. I'd rather be an idiot than lose you."
 -_Patrick Star_
 
-```
 
 Wanna see me in Advanced version? [I am here!](https://irfan.fahrurrozi.my.id/).
